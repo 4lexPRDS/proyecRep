@@ -1,0 +1,67 @@
+*{
+
+}
+
+#principal{}
+   
+
+.fila1{
+    width: 95%;
+    height: 65px;
+    background-color: rgb(82, 82, 82);
+    float: left;
+    margin-left: 30px;
+    margin-bottom: 10px;
+    text-align: right;
+}
+
+.logo{
+    margin-left: 1px;
+    width: 65px;
+    height: 65px;
+    text-align: right;
+}
+
+.fila2{
+    width: 95%;
+    height: 200px;
+    background-color: rgb(82, 82, 82);
+    float: left;
+    margin-left: 30px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+
+}
+.fila3{
+    width: 95%;
+    height: 75px;
+    background-color: rgb(82, 82, 82);
+    float: left;
+    margin-left: 30px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+#contenedor{
+    text-align: center;
+}
+.fila4{
+    width: 350px;
+    height: 400px;
+    background-color: rgb(82, 82, 82);
+    float: left;
+    margin-left: 120px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+
+.fila5{
+    width: 95%;
+    height: 40px;
+    background-color: rgb(82, 82, 82);
+    float: left;
+    margin-left: 30px;
+    margin-bottom: 10px;
+    text-align: center;
+    font-size: xx-large;
+}
